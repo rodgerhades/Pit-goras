@@ -1,1 +1,1 @@
-# Pit-goras
+# Pitagoras
